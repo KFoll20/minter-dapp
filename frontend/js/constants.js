@@ -1,5 +1,5 @@
-const contractAddress = "0x6E486F9Ceca667fead4A9231B4bf23FAEc15E3c3"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x3280fF95B24bd6fdF494E62e0d96611b1C006788"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Crypto4Bies, Pioneering the Digital 4wd Industry.";
 const welcome_h2 = "Connect to MetaMask to Get Started";
