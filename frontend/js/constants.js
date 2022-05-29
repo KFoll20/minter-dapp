@@ -19,7 +19,7 @@ const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Join the Discord";
 const button_presale_already_minted = "Join The Community";
 const button_public_mint = "Mint Your Crypto4Bie Here.";
-const mint_failed = "Minting failed. 😢 Please try again.";
+const mint_failed = "Minting failed. Manually Refresh the Transaction in Metamask.";
 
 const abi = [
   {
